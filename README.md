@@ -1,2 +1,2 @@
 # Project1
-Please access the master branch to view the project
+Kindly access the master branch to view the project
