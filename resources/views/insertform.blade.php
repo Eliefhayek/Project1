@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<form method="post" action="{{url('insert')}}">
+<form method="post" action="{{url('insert')}}" >
     @csrf
     <input value="" name="stat">
     <button type="submit">insert data</button>
