@@ -3,6 +3,5 @@
 ## Requirements
 laravel 9
 Firestore
-
 ## CRUD operations
 the following code achieves the read functino
