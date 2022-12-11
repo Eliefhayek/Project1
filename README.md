@@ -1,2 +1,2 @@
 # Project1
-this project is responsible for the crud operation of the local firestore
+Please access the master branch to view the project
