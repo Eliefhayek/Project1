@@ -3,12 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        .nav{
-            background-color: blue;
-            width: 100%;
-            padding-bottom: 40px;
 
-        }
         .insert{
             margin-left:40%;
             padding-top: 40px;
@@ -77,8 +72,7 @@
     </style>
 </head>
 <body>
-    <div class="nav">
-    </div>
+
 <form method="get" action="{{url('inserts')}}" class="insert">
     <button type="submit" class="inser">insert data</button>
 </form>
